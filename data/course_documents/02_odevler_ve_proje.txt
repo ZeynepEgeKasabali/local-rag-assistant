@@ -1,0 +1,37 @@
+Ders: PY101 — Python’a Giriş
+Belge türü: Kurgusal ders belgesi; yalnızca RAG demosu içindir.
+Kaynak: Bu demo için hazırlanmış özgün örnek içerik. Resmî üniversite belgesi değildir.
+Kaynak URL: Yok; yerel demo belgesi.
+Dönem: Güz 2026
+Saat dilimi: Türkiye saati (Europe/Istanbul).
+
+BAŞLIK: Ödevler, mini proje ve teslim tarihleri
+
+Derste üç bireysel ödev ve bir bireysel mini proje vardır. Tüm teslimler dersin çevrimiçi teslim alanına yüklenir. Bu demo belgesinde teslim alanının bağlantısı belirtilmemiştir. E-posta ile teslim kabul edilmez.
+
+Ödev 1 — Basit hesap makinesi:
+Kullanıcıdan iki sayı ve işlem türü alarak toplama, çıkarma, çarpma veya bölme yapan program hazırlanır. Sıfıra bölme için anlaşılır hata mesajı gösterilir. Konular: input, veri dönüşümü ve koşullar.
+Son teslim: 23 Ekim 2026 Cuma, 23.59.
+Dosya adı: odev1.py.
+Toplam ders notundaki ağırlığı: %10.
+
+Ödev 2 — Not listesi analizi:
+Bir listedeki öğrenci notlarının ortalamasını, en yüksek ve en düşük değerini hesaplayan program hazırlanır. Boş liste için hata mesajı gösterilir. Konular: listeler ve döngüler.
+Son teslim: 6 Kasım 2026 Cuma, 23.59.
+Dosya adı: odev2.py.
+Toplam ders notundaki ağırlığı: %10.
+
+Ödev 3 — Kelime sayacı:
+Bir TXT dosyasını okuyarak kelimelerin kaç kez geçtiğini sözlükte tutan program hazırlanır. Büyük ve küçük harfler aynı kabul edilir. Dosya bulunamazsa kullanıcıya açıklayıcı mesaj gösterilir. Konular: sözlükler, dosyalar ve hata yönetimi.
+Son teslim: 20 Kasım 2026 Cuma, 23.59.
+Dosya adı: odev3.py.
+Toplam ders notundaki ağırlığı: %10.
+
+Mini proje — Terminal görev listesi:
+Kullanıcı görev ekleyebilir, görevleri listeleyebilir ve seçilen görevi tamamlandı olarak işaretleyebilir. Görevler yerel bir TXT dosyasına kaydedilir. Grafik arayüz veya web sunucusu gerekmez.
+Son teslim: 27 Kasım 2026 Cuma, 23.59.
+Teslim: main.py ve en fazla bir sayfalık kullanim.txt dosyasını içeren ZIP.
+Sunum: 27 Kasım 2026 uygulama saatinde, öğrenci başına en fazla 5 dakika.
+Toplam ders notundaki ağırlığı: %20.
+
+Tüm ödev ve mini proje puanları 100 üzerinden verilir. Geç teslim kuralı ayrı ders kuralları belgesinde açıklanmıştır.

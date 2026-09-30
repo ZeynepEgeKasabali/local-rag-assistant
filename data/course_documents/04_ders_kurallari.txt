@@ -1,0 +1,24 @@
+Ders: PY101 — Python’a Giriş
+Belge türü: Kurgusal ders belgesi; yalnızca RAG demosu içindir.
+Kaynak: Bu demo için hazırlanmış özgün örnek içerik. Resmî üniversite belgesi değildir.
+Kaynak URL: Yok; yerel demo belgesi.
+Dönem: Güz 2026
+Saat dilimi: Türkiye saati (Europe/Istanbul).
+
+BAŞLIK: Devam, geç teslim ve akademik dürüstlük
+
+Devam koşulu:
+Sekiz pazartesi dersinin en az altısına katılım gerekir. Sekiz cuma uygulamasının en az altısına katılım gerekir. Bu iki koşul ayrı ayrı sağlanmalıdır. Devam puan getirmez; dersten geçebilmek için gereklidir. Mazeretli devamsızlık talepleri ders sorumlusuna iletilir. Mazeretin otomatik kabul edileceği varsayılamaz.
+
+Ödevlerde geç teslim:
+Üç ödev için son teslimden sonra en fazla 48 saat geç teslim kabul edilir. İlk 24 saatte ödev puanından 10 puan düşülür. 24 saati aşan ve 48 saati aşmayan gecikmede 20 puan düşülür. 48 saati aşan ödev kabul edilmez ve puanı 0 olur. Ceza sonrası puan 0’ın altına düşmez. Cezalar ödevin 100 üzerinden puanına uygulanır; doğrudan toplam ders notundan düşülmez.
+Örnek: Ödev 2’den 80 puan alan bir öğrenci 30 saat geç teslim ederse ödev puanı 60 olur. Ödev 2’nin toplam ders notuna katkısı 6 puandır.
+
+Mini projede geç teslim:
+Mini proje için geç teslim kabul edilmez. Onaylanmış bir mazeret varsa yeni teslim zamanı ders sorumlusu tarafından ayrıca belirlenir. Bu belgelerde böyle bir ek tarih verilmemiştir.
+
+Bireysel çalışma:
+Ödevler ve mini proje bireyseldir. Öğrenciler kavramları tartışabilir ancak birbirlerinin teslim kodunu kopyalayamaz. İnternetten alınan kod veya yararlanılan kaynaklar teslimde açıklanmalıdır.
+
+Yapay zekâ araçları:
+Kavram açıklaması almak ve hata mesajlarını anlamak için kullanılabilir. Üretilen bir çözümü aynen kendi çalışması gibi teslim etmek yasaktır. Kullanılan araç ve hangi amaçla kullanıldığı kullanim.txt veya kod yorumlarında belirtilmelidir. Öğrenci teslim ettiği kodu açıklayabilmelidir.

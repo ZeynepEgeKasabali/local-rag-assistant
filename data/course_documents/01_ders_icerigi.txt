@@ -1,0 +1,23 @@
+Ders: PY101 — Python’a Giriş
+Belge türü: Kurgusal ders belgesi; yalnızca RAG demosu içindir.
+Kaynak: Bu demo için hazırlanmış özgün örnek içerik. Resmî üniversite belgesi değildir.
+Kaynak URL: Yok; yerel demo belgesi.
+Dönem: Güz 2026
+Saat dilimi: Türkiye saati (Europe/Istanbul).
+
+BAŞLIK: Dersin kapsamı ve haftalık konular
+
+Python’a Giriş, programlamaya yeni başlayan öğrenciler için hazırlanmış 8 haftalık bir örnek derstir. Önceden programlama bilgisi gerekmez. Dersin amacı, temel Python programlarını okuyabilmek, yazabilmek ve hatalarını düzeltebilmektir.
+
+Dersler 5 Ekim 2026 ile 27 Kasım 2026 arasındadır. Ders pazartesi 10.00–12.00, uygulama cuma 14.00–15.00 yapılır. Derslik B201, uygulama laboratuvarı L102’dir.
+
+1. hafta (5–9 Ekim): Python kurulumu, print, input ve değişkenler.
+2. hafta (12–16 Ekim): int, float, str, bool veri türleri ve temel operatörler.
+3. hafta (19–23 Ekim): if, elif ve else ile koşullar.
+4. hafta (26–30 Ekim): for ve while döngüleri.
+5. hafta (2–6 Kasım): Listeler ve string işlemleri.
+6. hafta (9–13 Kasım): Fonksiyonlar, parametreler ve return.
+7. hafta (16–20 Kasım): Sözlükler, dosya okuma ve dosya yazma.
+8. hafta (23–27 Kasım): Temel hata yönetimi, tekrar ve mini proje sunumları.
+
+Öğrenciler Python 3 ve bir metin editörü kullanır. Ders için ücretli yazılım gerekmez. Ders kapsamında nesne yönelimli programlama, web geliştirme ve makine öğrenmesi işlenmez.

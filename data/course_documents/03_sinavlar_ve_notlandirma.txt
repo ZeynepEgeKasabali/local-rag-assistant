@@ -1,0 +1,29 @@
+Ders: PY101 — Python’a Giriş
+Belge türü: Kurgusal ders belgesi; yalnızca RAG demosu içindir.
+Kaynak: Bu demo için hazırlanmış özgün örnek içerik. Resmî üniversite belgesi değildir.
+Kaynak URL: Yok; yerel demo belgesi.
+Dönem: Güz 2026
+Saat dilimi: Türkiye saati (Europe/Istanbul).
+
+BAŞLIK: Sınavlar ve notlandırma
+
+Toplam ders notu şu bileşenlerden hesaplanır:
+Ödev 1: %10.
+Ödev 2: %10.
+Ödev 3: %10.
+Mini proje: %20.
+Ara sınav: %20.
+Final sınavı: %30.
+Ağırlıkların toplamı %100’dür. Devam, ayrıca puanlanan bir bileşen değildir.
+
+Ara sınav: 2 Kasım 2026 Pazartesi, 10.00–11.00, B201.
+Ara sınav kapsamı: İlk dört hafta; değişkenler, veri türleri, operatörler, koşullar ve döngüler.
+
+Final sınavı: 4 Aralık 2026 Cuma, 14.00–15.30, B201.
+Final kapsamı: Sekiz haftanın tamamı; fonksiyonlar, listeler, sözlükler, dosya işlemleri ve temel hata yönetimi dahil.
+
+İki sınav da kâğıt üzerinde yapılır. Sınavlarda bilgisayar, telefon, internet veya ders notu kullanılamaz. Soru türleri kodun çıktısını bulma, hata düzeltme ve kısa program yazmadır. Sınav sorularının kendisi bu belgelerde yer almaz.
+
+Her bileşen 100 üzerinden değerlendirilir. Toplam not, bileşen puanlarının ilgili ağırlıklarla çarpılıp toplanmasıyla bulunur. Dersten geçmek için toplam notun en az 60 olması ve devam koşulunun sağlanması gerekir. Final sınavı için ayrıca bir asgari puan koşulu yoktur.
+
+Harf notu eşikleri, bütünleme tarihi ve mazeret sınavının tarihi bu demo belgelerinde tanımlanmamıştır.

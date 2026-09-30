@@ -1,0 +1,35 @@
+Ders: PY101 — Python’a Giriş
+Belge türü: Kurgusal ders belgesi; yalnızca RAG demosu içindir.
+Kaynak: Bu demo için hazırlanmış özgün örnek içerik. Resmî üniversite belgesi değildir.
+Kaynak URL: Yok; yerel demo belgesi.
+Dönem: Güz 2026
+Saat dilimi: Türkiye saati (Europe/Istanbul).
+
+BAŞLIK: Asistan desteği ve sık sorulan sorular
+
+Asistan görüşme saati:
+Her çarşamba 15.00–16.00, L102 laboratuvarında yapılır. Önceden randevu gerekmez. Bu saatler dışında görüşmek isteyen öğrenci dersin çevrimiçi soru alanından görüşme talebi bırakır. Bu demo belgelerinde öğretim elemanlarının adı, e-posta adresi veya soru alanının bağlantısı verilmemiştir.
+
+Kod hatası sorarken:
+İlgili kod parçası, hata mesajının tamamı, beklenen sonuç ve elde edilen sonuç paylaşılmalıdır. Öğrenci numarası, parola veya kişisel bilgi paylaşılmamalıdır.
+
+Soru: Derse başlamak için Python bilmem gerekiyor mu?
+Yanıt: Hayır. Ders başlangıç seviyesindedir.
+
+Soru: Ödevleri grup olarak yapabilir miyiz?
+Yanıt: Hayır. Üç ödev ve mini proje bireyseldir. Kavramları birlikte tartışabilirsiniz, teslim kodunu kopyalayamazsınız.
+
+Soru: Mini projede web sitesi veya grafik arayüz gerekiyor mu?
+Yanıt: Hayır. Mini proje terminalde çalışan bir görev listesidir.
+
+Soru: Ödevimi e-posta ile gönderebilir miyim?
+Yanıt: Hayır. Ödevler çevrimiçi teslim alanına yüklenir.
+
+Soru: Asistan benim yerime ödevi tamamlar mı?
+Yanıt: Hayır. Asistan kavramları, hata mesajlarını ve çözüm yaklaşımını anlamanıza yardımcı olur.
+
+Soru: Finalde çıkacak sorular belli mi?
+Yanıt: Bu belgelerde gerçek sınav soruları yoktur. Yalnızca sınav kapsamı ve soru türleri açıklanmıştır.
+
+Soru: Dersin sertifikası veya ücreti var mı?
+Yanıt: Bu konuda belgelerde bilgi verilmemiştir.
